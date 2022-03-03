@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo-gateway-server/demo-gateway-server.iml" filepath="$PROJECT_DIR$/demo-gateway-server/demo-gateway-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-gateway-user-server/demo-gateway-user-server.iml" filepath="$PROJECT_DIR$/demo-gateway-user-server/demo-gateway-user-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-nacos-consumer/demo-nacos-consumer.iml" filepath="$PROJECT_DIR$/demo-nacos-consumer/demo-nacos-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-nacos-provider/demo-nacos-provider.iml" filepath="$PROJECT_DIR$/demo-nacos-provider/demo-nacos-provider.iml" />
+    </modules>
+  </component>
+</project>
